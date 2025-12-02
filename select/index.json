@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "REVIVER オリジナルVer.",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2025-12-02T02:09:44.600007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "REVIVER - オリジナルVer.",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/01_REVIVER_-_オリジナルVer._MY_FIRST_STORY.lrc"
+    }
+  ]
+}
